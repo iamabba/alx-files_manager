@@ -1,14 +1,48 @@
-This project is a web-based file manager built using HTML, CSS, and JavaScript. Its primary purpose is to provide users with a simple and intuitive interface for managing files and folders. It allows users to navigate through directories, upload new files, and delete existing files and folders.
+# Project Name
+**0x04. Files manager**
 
-Key Features:
+## Author's Details
+Name: *Musa Ahmed Abba* && *Victor Adebayo*
 
-Browsing: Users can view the contents of folders and navigate through directories, similar to how they would on their computer's file system.
+Email: *iamabbamusa@gmail.com* && *victoradebayo360@gmail.com*
 
-File Upload: The file manager provides a feature to upload new files. Users can select a file from their local device and add it to the chosen directory.
+Tel: *+2348137135698* && *+2348158667115*
 
-File Deletion: Users can delete files and folders they no longer need by selecting them and using the delete function
+##  Requirements
 
-Use Cases:
+### JavaScript Scripts
+*   Allowed editors: `vi`, `vim`, `emacs`, `Visual Studio Code`.
+*   All your files will be interpreted on Ubuntu 20.04 LTS using `node` (version 14.x).
+*   All your files should end with a new line.
+*   The `main.js` files are used to test your functions, but you don’t have to push them to your repo.
+*   Your code will be analyzed using the linter [ESLint](https://eslint.org/) along with specific rules that will be provided.
+*   When running every test with `npm run test *.test.js`, everything should pass correctly without any warning or error.
+*   All of your functions must be exported.
 
-This JavaScript File Manager can be useful for personal file management, allowing users to organize and interact with their files through a web interface.
-It can also serve as a basic foundation for more complex file management systems or be integrated into web applications that require file handling capabilities..
+## Project Description
+Learn How to create an API with Express.
+how to authenticate a user.
+how to store data in MongoDB.
+how to store temporary data in Redis.
+how to setup and use a background worker.
+
+## More Info
+### Install Node 14
+```
+$ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+$ sudo apt-get install -y nodejs
+```
+
+### Install Jest, Babel, and ESLint
+```
+$ npm install --save-dev jest
+$ npm install --save-dev babel-jest @babel/core @babel/preset-env
+$ npm install --save-dev eslint
+```
+
+**Find the configuration files `package.json`, `babel.config.js` and `.eslintrc.js` in the project directory. Run `npm install` when you have the `package.json`**
+
+
+## Collaborate
+
+To collaborate, reach me through my email address wendymunyasi@gmail.com.
