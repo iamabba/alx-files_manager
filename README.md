@@ -45,4 +45,4 @@ $ npm install --save-dev eslint
 
 ## Collaborate
 
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
+To collaborate, reach me through my email address iamabbamusa@gmail.com && victoradebayo360@gmail.com
